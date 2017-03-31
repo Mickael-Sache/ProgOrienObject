@@ -1,0 +1,6 @@
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\POO_TP4\POO_TP-2\bin\Debug\POO_TP4.exe.config
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\POO_TP4\POO_TP-2\bin\Debug\POO_TP4.exe
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\POO_TP4\POO_TP-2\bin\Debug\POO_TP4.pdb
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\POO_TP4\POO_TP-2\obj\Debug\POO_TP-4.csprojResolveAssemblyReference.cache
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\POO_TP4\POO_TP-2\obj\Debug\POO_TP4.exe
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\POO_TP4\POO_TP-2\obj\Debug\POO_TP4.pdb

@@ -1,0 +1,5 @@
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\TP_Exception\TP_Exception\bin\Debug\TP_Exception.exe.config
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\TP_Exception\TP_Exception\bin\Debug\TP_Exception.exe
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\TP_Exception\TP_Exception\bin\Debug\TP_Exception.pdb
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\TP_Exception\TP_Exception\obj\Debug\TP_Exception.exe
+C:\Users\34011-36-07\Documents\Visual Studio 2015\Projects\TP_Exception\TP_Exception\obj\Debug\TP_Exception.pdb

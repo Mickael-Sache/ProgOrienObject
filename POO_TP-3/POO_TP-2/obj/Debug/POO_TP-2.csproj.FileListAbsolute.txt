@@ -1,0 +1,6 @@
+c:\users\34011-36-07\documents\visual studio 2015\Projects\POO_TP-2\POO_TP-2\bin\Debug\POO_TP-2.exe.config
+c:\users\34011-36-07\documents\visual studio 2015\Projects\POO_TP-2\POO_TP-2\bin\Debug\POO_TP-2.exe
+c:\users\34011-36-07\documents\visual studio 2015\Projects\POO_TP-2\POO_TP-2\bin\Debug\POO_TP-2.pdb
+c:\users\34011-36-07\documents\visual studio 2015\Projects\POO_TP-2\POO_TP-2\obj\Debug\POO_TP-2.csprojResolveAssemblyReference.cache
+c:\users\34011-36-07\documents\visual studio 2015\Projects\POO_TP-2\POO_TP-2\obj\Debug\POO_TP-2.exe
+c:\users\34011-36-07\documents\visual studio 2015\Projects\POO_TP-2\POO_TP-2\obj\Debug\POO_TP-2.pdb
